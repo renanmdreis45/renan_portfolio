@@ -3,7 +3,7 @@ import AnimatedLetters from "../AnimatedLetters"
 import { useEffect, useState } from "react";
 import { Link } from 'react-router-dom';
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { faPython, faCss3, faJava, faHtml5, faAmazon, faReact } from "@fortawesome/free-brands-svg-icons";
+import { faCss3, faHtml5, faAmazon, faReact } from "@fortawesome/free-brands-svg-icons";
 import Loader from "react-loaders";
 import LanguageList from "./LanguageList";
 
