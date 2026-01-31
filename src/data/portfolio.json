@@ -17,6 +17,12 @@
             "title": "Qualitime",
             "description": "Flutter, Dart, Firebase",
             "url": "https://play.google.com/store/apps/details?id=br.com.l5.qualitime&hl=pt"
+        },
+        {
+            "cover": "assets/images/portfolio/poliequipes.png",
+            "title": "Poliequipes",
+            "description": "React Native, JavaScript, Redux, SQLite, C++, Qt",
+            "url": "https://polibrassoftware.com.br/sistemas/poliequipes/"
         }
     ]
 }
